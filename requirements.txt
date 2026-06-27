@@ -1,0 +1,10 @@
+transformers
+torch
+numpy
+gradio
+langchain
+langchain-community
+langchain-core
+pypdf
+sentence-transformers
+chromadb
